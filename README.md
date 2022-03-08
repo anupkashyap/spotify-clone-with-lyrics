@@ -13,7 +13,7 @@ Serverless backend API for Postify - a minimalistic blog/social media-style web 
 
 # Screenshots
 
-<a href="https://ibb.co/cQQVzrg"><img src="https://i.ibb.co/zZZDK4n/Screen-Shot-2022-02-14-at-6-38-19-PM.png" alt="Screen-Shot-2022-02-14-at-6-38-19-PM" border="0"></a>
+<a href="https://ibb.co/jhxWbN8"><img src="https://i.ibb.co/ZdwYGjf/Screen-Shot-2022-02-14-at-6-31-59-PM.png" alt="Screen-Shot-2022-02-14-at-6-31-59-PM" border="0"></a>
 
 <a href="https://ibb.co/b6VFTJj"><img src="https://i.ibb.co/4FL2zdw/Screen-Shot-2022-02-14-at-6-38-26-PM.png" alt="Screen-Shot-2022-02-14-at-6-38-26-PM" border="0"></a>
 
